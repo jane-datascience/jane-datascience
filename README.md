@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋:kissing_smiling_eyes:
 
 <!--
 **jane-datascience/jane-datascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
